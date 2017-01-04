@@ -1,2 +1,2 @@
 # Web-Application
-HTML, CSS and Java Script
+HTML, CSS and JavaScript
