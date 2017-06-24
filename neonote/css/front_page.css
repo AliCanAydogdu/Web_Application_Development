@@ -65,7 +65,7 @@ footer a:hover {
   padding: 8px;
   width: 80%;
   max-width: 200px;
-  background: #fff; /* fallback color for old browsers */
+  background: #fff; 
   background: rgba(0, 128, 0, 0.5);
   border-radius: 8px;
   color: #fff;
